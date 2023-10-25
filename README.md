@@ -17,8 +17,6 @@
 
  💬 Ask me about **HTML, CSS, Saas,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
 
-
- 
  </div>
  
 <div align="center"> 
@@ -35,7 +33,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,linux,vscode,github,git" />
@@ -44,15 +42,7 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2> 🍏My Contributions 🍏</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Stephani6G/Stephani6G/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=ShadowIntoLight&size=25&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Thanks+for+visiting!+❤;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
