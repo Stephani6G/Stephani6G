@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=ShadowsIntoLight&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+World!+😄;+I'm+Stephanie+Gloria!;" />
 </h1>
 
-<h3 align="center">A passionate  software developer from Kenya</h3>
+<h3 align="center">A passionate  software developer from Kenya.</h3>
 <br>
 <h5 align="center">Hakuna Matata</h5>
 <br/>
