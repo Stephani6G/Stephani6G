@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **C, Python,Javascript**
 
- 💬 Ask me about **HTML, CSS, Saas,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
+ 💬 Ask me about **HTML, CSS, SaSS,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
 
  </div>
  
@@ -38,7 +38,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,linux,vscode,github,git" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,nextjs,mysql,git,css" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,nextjs,mysql,sass,css" /><br>
 </div>
 
 <br/>
