@@ -13,7 +13,7 @@
  
  🔭 I’m currently studying at **ALX Africa.**
  
- 🌱 I’m currently learning **C, Python,Javascript**
+ 🌱 I’m currently learning **C, Python,Javascript.**
 
  💬 Ask me about **HTML, CSS, SaSS,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
 
@@ -44,7 +44,7 @@
 <br/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=ShadowIntoLight&size=25&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Thanks+for+visiting!+❤;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ShadowIntoLight&size=25&center=true&vCenter=true&width=500&height=70&duration=9000&lines=Thanks+for+visiting!+❤;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
