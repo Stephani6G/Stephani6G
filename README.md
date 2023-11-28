@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **ALX Africa.**
+  I’m currently studying at **ALX Africa.**
  
- 🌱 I’m currently learning **C, Python,Javascript.**
+ I’m currently learning **C, Python,Javascript.**
 
- 💬 Ask me about **HTML, CSS, SaSS,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
+ Ask me about **HTML, CSS, SaSS,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
 
  </div>
  
