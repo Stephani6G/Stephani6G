@@ -39,9 +39,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,docker,ruby" />
     <br/>
-     <img src="https://skillicons.dev/icons?i=html,css,webpack,express,react,babel" />
+     <img src="https://skillicons.dev/icons?i=html,css,webpack,mongodb,express,react,nodejs" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,nextjs,mysql,sass,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,babel,nextjs,mysql,sass,wordpress" /><br>
 </div>
 
 <br/>
