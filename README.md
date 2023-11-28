@@ -7,7 +7,7 @@
 
 <h3 align="center">A passionate  software developer from Kenya.</h3>
 <br>
-<h5 align="center">Hakuna Matata</h5>
+<h5 align="center">Hakuna Matata :-) </h5>
 <br/>
 
 <div align="center">
