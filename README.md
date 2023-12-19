@@ -41,7 +41,7 @@
     <br/>
      <img src="https://skillicons.dev/icons?i=html,css,webpack,mongodb,express,react,nodejs" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,babel,nextjs,mysql,sass,wordpress, prettier" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,babel,nextjs,mysql,sass,wordpress" /><br>
 </div>
 
 <br/>
