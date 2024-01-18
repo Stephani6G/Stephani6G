@@ -14,7 +14,7 @@
  
   I’m currently studying at **ALX Africa.**
  
- I’m currently learning **C, Python,Javascript.**
+ I’m currently learning **Python and Javascript.**
 
  Ask me about **HTML, CSS, SaSS,JavaScript... or anything [here](stephaniegloria283@gmail.com)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,docker,ruby" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git,docker,vim,ruby" />
     <br/>
      <img src="https://skillicons.dev/icons?i=html,css,webpack,mongodb,express,react,nodejs" />
     <br/>
