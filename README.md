@@ -51,3 +51,4 @@
 </h3>
 
 <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stephani6G)](https://github.com/ryo-ma/github-profile-trophy)
