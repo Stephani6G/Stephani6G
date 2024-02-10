@@ -11,8 +11,7 @@
 <br/>
 
 <div align="center">
- 
-  I’m currently studying at **ALX Africa.**
+
  
  I’m currently learning **Python and Javascript.**
 
